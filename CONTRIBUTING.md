@@ -40,5 +40,5 @@ Contributions are made under the [MIT License](LICENSE).
 
 For questions or help, reach out via:
 
-- **Email**: [support@xeda-dev.com](mailto:support@xeda-dev.com)
+- **Email**: [support@xeda.dev](mailto:support@xeda.dev)
 - **GitHub Issues**: [XedaCarOS Issues](https://github.com/Xeda-Development/XedaCarOS/issues)
