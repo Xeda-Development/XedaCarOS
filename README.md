@@ -26,4 +26,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 
-For support or inquiries, please open an issue on the [GitHub repository](https://github.com/Xeda-Development/XedaCarOS/issues) or contact us at [support@xeda-dev.com](mailto:support@xeda-dev.com).
+For support or inquiries, please open an issue on the [GitHub repository](https://github.com/Xeda-Development/XedaCarOS/issues) or contact us at [support@xeda.dev](mailto:support@xeda.dev).
